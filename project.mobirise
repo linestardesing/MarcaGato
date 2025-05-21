@@ -564,7 +564,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/banner1-compressed-1.jpg-85x48.png",
                 "title": "title 1",
                 "text": "text 1",
-                "active": true,
+                "active": false,
                 "alt": ""
               },
               {
@@ -590,14 +590,14 @@
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/banner2-compressed-1.jpg-1-1600x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/banner4.jpg-1-1600x800.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/banner2-compressed-1.jpg-1600x800.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/banner2-compressed-1.jpg-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/banner4.jpg-1600x800.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/banner4.jpg-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": false,
+                "active": true,
                 "alt": ""
               }
             ],
