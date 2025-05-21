@@ -64,7 +64,7 @@
     "versionPublish": "6.0.1",
     "screenshot": "screenshot.png",
     "chatbutton": {
-      "phone": "+593 99 821 2821",
+      "phone": "+593998212821",
       "message": "",
       "size": "65px",
       "backgroundColor": "#e5ddd5",
@@ -86,7 +86,7 @@
       "icon": "@PROJECT_PATH@/assets/images/favicon.png-512x512.png",
       "themeColor": "#f92c50"
     },
-    "mbrsiteDomain": "rrdblxgl72",
+    "mbrsiteDomain": "khiow6917h",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
