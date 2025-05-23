@@ -1484,78 +1484,69 @@ a {
   text-align: center;
   color: #f70a0a;
 }
-.cid-uLZg6jbDfb {
-  padding-top: 5rem;
-  padding-bottom: 2rem;
-  background-color: #232323;
-}
-.cid-uLZg6jbDfb .mbr-text {
-  color: #000000;
-}
-.cid-uLZg6jbDfb .mbr-section-subtitle {
-  color: #000000;
-}
-.cid-uLZg6jbDfb .mbr-section-title {
-  color: #f92c50;
-  text-align: center;
-}
-.cid-uLZftiKF1o {
-  padding-top: 30px;
-  padding-bottom: 90px;
+.cid-uLZmE6bRgu {
+  padding-top: 105px;
+  padding-bottom: 120px;
   background-image: url("../../../assets/images/fondo-de-textura-grunge-gris-con-aranazos-y-manchas.jpg-2000x1600.jpg");
 }
-.cid-uLZftiKF1o .card-icon {
-  font-size: 64px;
-  color: #ffffff;
-  transition: color 0.3s;
+.cid-uLZmE6bRgu .mbr-text,
+.cid-uLZmE6bRgu .mbr-section-subtitle {
+  color: #767676;
 }
-.cid-uLZftiKF1o .icon2 {
-  color: #ffffff;
+.cid-uLZmE6bRgu .mbr-text {
+  margin-bottom: 0 !important;
+  color: #f70a0a;
+  transition: .2s all;
 }
-.cid-uLZftiKF1o .card-title {
-  font-weight: 600;
-  letter-spacing: 1px;
+.cid-uLZmE6bRgu .card-title {
+  color: #66458e;
 }
-.cid-uLZftiKF1o p {
-  font-weight: 400;
+.cid-uLZmE6bRgu .card .card-img span {
+  color: #000000;
+  font-size: 60px;
+  background: #000000;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
-.cid-uLZftiKF1o .line {
-  width: 35px;
-  height: 3px;
-  display: inline-block;
-  background: #edefeb;
-  margin-bottom: 1.5rem;
-  transition: background 0.3s;
+.cid-uLZmE6bRgu .card-img {
+  padding-bottom: 2.65rem !important;
 }
-.cid-uLZftiKF1o .line2 {
-  background: #edefeb;
+@media (max-width: 767px) {
+  .cid-uLZmE6bRgu .mbr-section-subtitle,
+  .cid-uLZmE6bRgu .mbr-section-title {
+    text-align: center !important;
+  }
 }
-.cid-uLZftiKF1o .card-wrapper {
-  padding: 2.5rem 2rem;
-  transition: background 0.3s;
-  background: #f70a0a;
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .cid-uLZmE6bRgu .card .card-img span {
+    background: none;
+  }
 }
-.cid-uLZftiKF1o .card-wrapper:hover .link-ico {
+.cid-uLZmE6bRgu .card-wrap {
+  border-radius: 5px;
+  padding: 4.2rem 2rem 4.1rem;
+}
+.cid-uLZmE6bRgu .card1 {
   background-color: #ffffff;
-  border-color: #ffffff;
-  color: white;
 }
-.cid-uLZftiKF1o .card2 {
-  background: #f92c50;
+.cid-uLZmE6bRgu .card2 {
+  background-color: #edefeb;
 }
-.cid-uLZftiKF1o .card-title,
-.cid-uLZftiKF1o .card-ico,
-.cid-uLZftiKF1o .line-wrap {
-  text-align: center;
+.cid-uLZmE6bRgu .card3 {
+  background-color: #ffffff;
 }
-.cid-uLZftiKF1o .mbr-text,
-.cid-uLZftiKF1o .card-link {
-  text-align: center;
+.cid-uLZmE6bRgu .card4 {
+  background-color: #bbbbbb;
 }
-.cid-uLZftiKF1o .mbr-fallback-image.disabled {
+.cid-uLZmE6bRgu .card-title,
+.cid-uLZmE6bRgu .card-img {
+  color: #000000;
+  text-transform: uppercase;
+}
+.cid-uLZmE6bRgu .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uLZftiKF1o .mbr-fallback-image {
+.cid-uLZmE6bRgu .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1563,6 +1554,9 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+}
+.cid-uLZmE6bRgu .mbr-section-title {
+  color: #f92c50;
 }
 .cid-uLMNyfyqOE {
   padding-top: 3rem;
