@@ -1484,124 +1484,78 @@ a {
   text-align: center;
   color: #f70a0a;
 }
-.cid-uLZbQxlZFT {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-color: #111111;
+.cid-uLZg6jbDfb {
+  padding-top: 5rem;
+  padding-bottom: 2rem;
+  background-color: #232323;
 }
-.cid-uLZbQxlZFT .mbr-text {
+.cid-uLZg6jbDfb .mbr-text {
   color: #000000;
 }
-.cid-uLZbQxlZFT .mbr-section-subtitle {
+.cid-uLZg6jbDfb .mbr-section-subtitle {
   color: #000000;
 }
-.cid-uLZbQxlZFT .mbr-section-title {
+.cid-uLZg6jbDfb .mbr-section-title {
   color: #f92c50;
   text-align: center;
 }
-.cid-uLZbKDugUa {
-  padding-top: 90px;
-  padding-bottom: 75px;
-  background-color: #111111;
+.cid-uLZftiKF1o {
+  padding-top: 30px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/fondo-de-textura-grunge-gris-con-aranazos-y-manchas.jpg-2000x1600.jpg");
 }
-.cid-uLZbKDugUa img {
-  width: 100%;
-  transition: all 0.6s ease-in-out;
-  height: 260px;
-  object-fit: cover;
+.cid-uLZftiKF1o .card-icon {
+  font-size: 64px;
+  color: #ffffff;
+  transition: color 0.3s;
 }
-.cid-uLZbKDugUa .link-wrapper {
-  margin-bottom: 1rem;
+.cid-uLZftiKF1o .icon2 {
+  color: #ffffff;
 }
-.cid-uLZbKDugUa .link-wrapper .mbr-iconfont {
-  border: 1px solid #999999;
-  border-radius: 50%;
-  padding: 8px;
-  font-size: 0.8rem;
-  color: #999999;
+.cid-uLZftiKF1o .card-title {
+  font-weight: 600;
+  letter-spacing: 1px;
 }
-.cid-uLZbKDugUa .img-wrapper .mbr-iconfont {
-  font-size: 3rem;
-  width: 80px;
-  height: 80px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: auto;
-  padding-bottom: 1rem;
-  background: linear-gradient(to left, #f92c50, #f92c50);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+.cid-uLZftiKF1o p {
+  font-weight: 400;
 }
-.cid-uLZbKDugUa .card-wrapper {
-  background: #191919;
-  padding: 2rem;
+.cid-uLZftiKF1o .line {
+  width: 35px;
+  height: 3px;
+  display: inline-block;
+  background: #edefeb;
+  margin-bottom: 1.5rem;
+  transition: background 0.3s;
 }
-@media (max-width: 767px) {
-  .cid-uLZbKDugUa .card-wrapper {
-    padding: 2rem 1rem;
-  }
+.cid-uLZftiKF1o .line2 {
+  background: #edefeb;
 }
-.cid-uLZbKDugUa .first:hover:before {
-  content: none;
+.cid-uLZftiKF1o .card-wrapper {
+  padding: 2.5rem 2rem;
+  transition: background 0.3s;
+  background: #f70a0a;
 }
-.cid-uLZbKDugUa .first:before {
-  position: absolute;
-  top: -1rem;
-  z-index: -1;
-  left: 0rem;
-  width: 300px;
-  height: 200px;
-  background: linear-gradient(to left, #f92c50, #f92c50);
-  content: "";
-}
-.cid-uLZbKDugUa .last:hover:after {
-  content: none;
-}
-.cid-uLZbKDugUa .last:after {
-  position: absolute;
-  bottom: -1rem;
-  right: 0rem;
-  width: 300px;
-  z-index: -1;
-  height: 200px;
-  background: linear-gradient(to left, #f92c50, #f92c50);
-  content: "";
-}
-.cid-uLZbKDugUa .mbr-section-text {
-  color: #999999;
-}
-.cid-uLZbKDugUa .card {
-  z-index: 1;
-  min-height: 200px;
-  margin-bottom: 2rem;
-  position: relative;
-  transition: all 0.3s;
-}
-.cid-uLZbKDugUa .card .img-wrapper {
-  overflow: hidden;
-}
-.cid-uLZbKDugUa .card:hover {
-  transform: translateY(-10px);
-  cursor: pointer;
-}
-.cid-uLZbKDugUa .card:hover .mbr-iconfont {
-  color: #ffffff !important;
+.cid-uLZftiKF1o .card-wrapper:hover .link-ico {
+  background-color: #ffffff;
   border-color: #ffffff;
-  -webkit-background-clip: transparent;
-  -webkit-text-fill-color: unset;
+  color: white;
 }
-.cid-uLZbKDugUa .card:hover .card-wrapper {
-  background: linear-gradient(to left, #f92c50, #f92c50);
-  color: #ffffff !important;
+.cid-uLZftiKF1o .card2 {
+  background: #f92c50;
 }
-.cid-uLZbKDugUa .card:hover .card-wrapper .mbr-section-text {
-  color: #ffffff !important;
+.cid-uLZftiKF1o .card-title,
+.cid-uLZftiKF1o .card-ico,
+.cid-uLZftiKF1o .line-wrap {
+  text-align: center;
 }
-.cid-uLZbKDugUa .mbr-fallback-image.disabled {
+.cid-uLZftiKF1o .mbr-text,
+.cid-uLZftiKF1o .card-link {
+  text-align: center;
+}
+.cid-uLZftiKF1o .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uLZbKDugUa .mbr-fallback-image {
+.cid-uLZftiKF1o .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
